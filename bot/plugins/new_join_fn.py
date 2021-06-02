@@ -29,10 +29,10 @@ async def help_message_f(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Updates Channel', url='https://t.me/AyushBots')
+                    InlineKeyboardButton('owner', url='https://t.me/I_45H_07')
                 ],
                 [
-                    InlineKeyboardButton('Source Code', url='https://github.com/CyberBoyAyush/VideoCompress')
+                    InlineKeyboardButton('Group', url='https://t.me/grpsprt')
                 ]
             ]
         ),
